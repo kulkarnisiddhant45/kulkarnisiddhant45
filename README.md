@@ -1,265 +1,220 @@
-# 👋 Hey, I'm **Aryan Kale**
+# Hi, I'm **Siddhnat Kulkarni** 👋
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:6A5ACD&height=280&section=header&text=Aryan%20Kale&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Java%20Developer%20•%20UI%2FUX%20Designer&descAlignY=60"/>
+# 🚀 Full Stack Developer • Java Developer • UI/UX Designer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1200&color=00C4FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;React+Developer;UI%2FUX+Designer;Cloud+%26+DevOps+Enthusiast;Building+Digital+Experiences"/>
+Building fast, scalable, and visually engaging digital experiences.
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=iamaryan7&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+📍 **Latur, Maharashtra, India**  
+🌍 Open to **Remote | Freelance | Full-Time Opportunities**
 
-<img src="https://img.shields.io/github/followers/iamaryan7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/iamaryan7?style=for-the-badge"/>
-</p>
+📧 **kulkarnisiddhnat708@gmail.com**
 
 <p>
-
-<a href="mailto:aryankale082@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/iamaryan7">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://aryan-portfolio-green.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
+  <a href="https://github.com/kulkarnisiddhant45">
+    <img src="https://komarev.com/ghpvc/?username=kulkarnisiddhant45&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+  <a href="https://github.com/kulkarnisiddhant45?tab=followers">
+    <img src="https://img.shields.io/github/followers/kulkarnisiddhant45?label=Followers&style=social" />
+  </a>
 </p>
 
-📍 **Latur, India** • 🌍 **Remote**
-
-💼 **Available for Freelance & Full-Time Opportunities**
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%26+Spring+Boot+Developer;React+Developer;UI%2FUX+Designer;Always+Learning+New+Technologies" />
 
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+# 💫 About Me
 
-# 🚀 About Me
+I'm a passionate **Full Stack Developer** who loves building modern, scalable, and high-performance applications.
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212744322-9f4c84d4-5d22-4e6f-8f7b-f88cbaf0da82.gif">
+I enjoy solving real-world problems with clean code, intuitive user interfaces, and efficient backend systems.
 
-```java
-public class Aryan {
-
-    String role = "Full Stack Developer";
-
-    String[] expertise = {
-        "Java",
-        "Spring Boot",
-        "React",
-        "Node.js",
-        "REST APIs",
-        "UI/UX Design"
-    };
-
-    String[] interests = {
-        "Cloud Computing",
-        "AI Applications",
-        "Microservices",
-        "System Design"
-    };
-
-    String mission =
-        "Building modern digital experiences that users love.";
-}
-```
-
-### 👨‍💻 What I Do
+### 🚀 What I Do
 
 - 💻 Full Stack Web Development
 - ☕ Java & Spring Boot Development
 - ⚛️ React Development
 - 🎨 UI/UX Design
-- 🤖 AI Powered Applications
+- 🤖 AI-Powered Applications
 - ☁️ Cloud & DevOps
-- 🚀 Production Ready Software
-- 📱 Responsive Web Applications
+- 🚀 Performance Optimization
 
 ---
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 # 🌱 Currently Learning
 
-- 🚀 Spring Boot Microservices
-- 📚 System Design
-- 🐳 Docker & Kubernetes
-- ☁️ AWS Cloud Services
-- 🔄 CI/CD with Jenkins
-- 🎮 Three.js & WebGL
-- ⚡ Design Patterns
+- Spring Boot Microservices
+- System Design
+- Docker & Kubernetes
+- AWS Cloud
+- Jenkins CI/CD
+- Three.js
+- WebGL
+- Design Patterns
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+# 💻 Tech Stack
 
-# 🛠 Tech Stack
+## Languages
 
-<div align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,cpp" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,python,js,cpp,react,html,css,spring,nodejs,mysql,docker,aws,jenkins,git,github,figma,vscode&perline=6"/>
+## Frontend
 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,threejs" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge"/>
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+## DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,jenkins,git,github,figma" />
+</p>
 
 ---
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 # 🚀 Featured Projects
 
 | Project | Description | Tech |
-|---------|-------------|------|
-| 🌐 Portfolio Website | Personal portfolio with modern UI | React |
-| 🤖 AI Applications | AI-powered web applications | JavaScript |
-| ☕ Java Projects | Enterprise Java applications | Spring Boot |
-| 📱 Full Stack Apps | Modern responsive web apps | React + Spring |
+|----------|-------------|------|
+| 🌐 Project 1 | Modern Full Stack Web Application | React • Spring Boot |
+| 🤖 Project 2 | AI Powered Application | Python • React |
+| 📊 Project 3 | Dashboard System | Java • MySQL |
+| 🎨 Project 4 | UI/UX Portfolio | React • Three.js |
+
+> Replace these with your own repositories.
 
 ---
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 # 💼 Experience
 
-### 💻 Freelance Full Stack Developer
+## 💻 Freelance Full Stack Developer
 
-**Nov 2025 – Present**
-
-- 🚀 Building scalable web applications
-- ⚛️ Developing React & Spring Boot projects
-- 🎨 Creating responsive UI/UX
-- ☁️ Deploying production-ready software
-
-### 📋 Project Manager
-
-**Dec 2024 – Aug 2025**
-
-- Managed software development projects
-- Led development teams
-- Planned & deployed applications
-- Delivered projects on time
+- Developed responsive React applications
+- Built scalable Spring Boot REST APIs
+- Designed modern UI/UX
+- Delivered production-ready software
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+## 📋 Project Manager
+
+- Managed software development projects
+- Coordinated development teams
+- Planned, developed, tested and deployed applications
+
+---
 
 # 🎓 Education
 
 ### Diploma in Computer Engineering
 
-**MSBTE**
-
-**2024 – 2027**
+**MSBTE**  
+2024 – 2027
 
 ---
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamaryan7&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kulkarnisiddhant45&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamaryan7&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulkarnisiddhant45&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamaryan7&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-
-# 📈 Contribution Graph
+</p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamaryan7&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kulkarnisiddhant45&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kulkarnisiddhant45&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
 
 # 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=iamaryan7&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kulkarnisiddhant45&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 
-</div>
-
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-
-# 🎯 Current Goals
-
-✨ Build scalable SaaS applications
-
-☁️ Master AWS & Kubernetes
-
-📚 Improve System Design skills
-
-🤝 Contribute to Open Source
-
-🚀 Launch impactful products
+</p>
 
 ---
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 # 📫 Connect With Me
 
-<div align="center">
+<p align="center">
 
-<a href="mailto:aryankale082@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:kulkarnisiddhnat708@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/iamaryan7">
+<a href="https://github.com/kulkarnisiddhant45">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://aryan-portfolio-green.vercel.app/">
+<!-- Add these if available -->
+<!--
+<a href="https://linkedin.com/in/yourprofile">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://yourportfolio.com">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="https://instagram.com/aryankale">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://leetcode.com/yourusername">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
+-->
 
-</div>
+</p>
+
+---
+
+# 💡 Philosophy
+
+> **"Great software isn't just built—it's crafted to solve problems, delight users, and create lasting impact."**
 
 ---
 
 <div align="center">
 
-## 💡 Developer Philosophy
-
-> **"Great software is not just functional—it creates experiences people remember."**
-
-<br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:6A5ACD&height=180&section=footer"/>
-
 ### ⭐ Thanks for visiting my profile!
 
-If you like my work, consider giving my repositories a ⭐
+If you like my work, consider **starring my repositories** and feel free to connect. I'm always open to collaborating on exciting projects.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
 </div>
