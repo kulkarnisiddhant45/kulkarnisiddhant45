@@ -2,12 +2,12 @@
 
 <div align="center">
 
-# 🚀 Full Stack Developer • Java Developer • UI/UX Designer
+# 🚀 Frontend Developer • Java Developer • UI/UX Designer
 
 Building fast, scalable, and visually engaging digital experiences.
 
 📍 **Latur, Maharashtra, India**  
-🌍 Open to **Remote | Freelance | Full-Time Opportunities**
+🌍 Open to **Remote |  | Full-Time Opportunities**
 
 📧 **kulkarnisiddhnat708@gmail.com**
 
@@ -28,32 +28,28 @@ Building fast, scalable, and visually engaging digital experiences.
 
 # 💫 About Me
 
-I'm a passionate **Full Stack Developer** who loves building modern, scalable, and high-performance applications.
+I'm a passionate **Frontend  Developer** who loves building modern, scalable, and high-performance applications.
 
 I enjoy solving real-world problems with clean code, intuitive user interfaces, and efficient backend systems.
 
 ### 🚀 What I Do
 
-- 💻 Full Stack Web Development
-- ☕ Java & Spring Boot Development
-- ⚛️ React Development
+- 💻 Frontend Development
+- ☕ Java Script
 - 🎨 UI/UX Design
 - 🤖 AI-Powered Applications
-- ☁️ Cloud & DevOps
 - 🚀 Performance Optimization
 
 ---
 
 # 🌱 Currently Learning
 
-- Spring Boot Microservices
-- System Design
-- Docker & Kubernetes
-- AWS Cloud
-- Jenkins CI/CD
-- Three.js
-- WebGL
-- Design Patterns
+- Html
+- css
+- Boot Strap
+- Java Script
+- Python
+
 
 ---
 
@@ -62,66 +58,36 @@ I enjoy solving real-world problems with clean code, intuitive user interfaces, 
 ## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,js,cpp" />
+<img src="https://skillicons.dev/icons?i=java,python,js,cpp,html,css,bs" />
 </p>
 
 ## Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,threejs" />
+<img src="https://skillicons.dev/icons?i=bs,html,css,js" />
 </p>
 
-## Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs" />
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge"/>
-</p>
-
-## Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
 
 ## DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,aws,jenkins,git,github,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,figma" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
 
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🌐 Project 1 | Modern Full Stack Web Application | React • Spring Boot |
-| 🤖 Project 2 | AI Powered Application | Python • React |
-| 📊 Project 3 | Dashboard System | Java • MySQL |
-| 🎨 Project 4 | UI/UX Portfolio | React • Three.js |
 
-> Replace these with your own repositories.
 
----
 
 # 💼 Experience
 
-## 💻 Freelance Full Stack Developer
+## 💻 Frontend Developer
 
-- Developed responsive React applications
-- Built scalable Spring Boot REST APIs
-- Designed modern UI/UX
-- Delivered production-ready software
+- Developed responsive Html applications
 
----
 
-## 📋 Project Manager
-
-- Managed software development projects
-- Coordinated development teams
-- Planned, developed, tested and deployed applications
 
 ---
 
