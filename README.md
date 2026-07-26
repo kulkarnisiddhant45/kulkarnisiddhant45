@@ -20,8 +20,6 @@ Building fast, scalable, and visually engaging digital experiences.
   </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;Java+%26+Java Script Developer;React+Developer;UI%2FUX+Designer;Always+Learning+New+Technologies" />
-
 </div>
 
 ---
